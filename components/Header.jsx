@@ -27,6 +27,7 @@ const Header = () => {
       <Image
         className="object-contain"
         src="https://download.logo.wine/logo/Hulu/Hulu-Logo.wine.png"
+        alt=''
         loader={() => src}
         width={200}
         height={100}
